@@ -459,7 +459,7 @@ header .side-nav .social-link {
     }
 }
 
-@-webkit-keyframes scroll-down {
+/*@-webkit-keyframes scroll-down {
     0% {
         opacity: 0.4;
         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
